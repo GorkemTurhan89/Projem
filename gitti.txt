@@ -6,3 +6,4 @@ gittimi acaba
 >>>>>>> 5ae7333752e642859f5f538aa286eb3a9f6c67df
 neler oluyor
 
+sadas
